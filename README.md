@@ -1,4 +1,4 @@
-### [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=333333&width=600&lines=Olá+seja+bem-Vindo+👋;-já+tentou+reiniciar+seu+computador+senhor?;então+isso+tudo+é+abstração😱;nuvem+é+so+um+monte+de+servidor+linux🤫)](https://git.io/typing-svg)
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=333333&width=600&lines=Olá+seja+Bem-Vindo+👋;-+já+tentou+reiniciar+seu+computador+senhor?;então+isso+tudo+é+abstração😱;nuvem+é+so+um+monte+de+servidor+linux🤫)](https://git.io/typing-svg)
  
  
  

@@ -63,3 +63,10 @@ Sempre fui uma pessoa curiosa que busca entender como as coisas funcionam. sempr
 ![Github Actions](https://img.shields.io/badge/Github_Actions-37014B?style=for-the-badge&logo=githubactions)
 ![OpenStreetMap](https://img.shields.io/static/v1?style=for-the-badge&message=OpenStreetMap&color=222222&logo=OpenStreetMap&logoColor=7EBC6F&label=)
 ![Qgis](https://img.shields.io/static/v1?style=for-the-badge&message=Qgis&color=589632&logo=Qgis&logoColor=FFFFFF&label=)
+<br/>
+<br/>
+<br/>
+#### Thanks for visiting :heart:
+
+<img src="https://profile-counter.glitch.me/cris-guedes/count.svg">  
+

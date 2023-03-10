@@ -1,10 +1,10 @@
-## 🙋‍♂️Hello World
+### Welcome
 
- 👋 Olá meu nome é ***Antonio Cristian Guedes Da Silva*** tenho 23 anos de idade, entusiasta da **inovação**🚀.
+ Olá meu nome é ***Antonio Cristian Guedes Da Silva*** tenho 23 anos de idade, entusiasta da **inovação**.
   Sou desenvovedor de software focado na stack **Javascript** desde **2021**.
-
-🔭Sempre fui uma pessoa curiosa que busca entender como as coisas funcionam. sempre gostei de pesquisar 🔎 sobre assuntos 
- no qual tenho interrese e tentar entende-los a fundo, me defino como uma pessoa **analista**, **resiliente** e **criativa**.
+  
+Sempre fui uma pessoa curiosa que busca entender como as coisas funcionam. sempre gostei de pesquisar sobre assuntos 
+ no qual tenho interrese e tentar entende-los a fundo, me defino como uma pessoa **analista**, **resiliente** e **criativa**
 > - [x]  Café ☕.
 > - [x]  Desafios🔥.
 > - [x]  Café Com desafios 🚀.
